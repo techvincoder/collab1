@@ -1,1 +1,1 @@
-code for rocket
+code rocket
